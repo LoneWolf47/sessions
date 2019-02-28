@@ -49,10 +49,6 @@ app.use(function (err, req, res, next) {
   res.send(err.message);
 });
 
-app.get('/', (request, response) => {
-    response.json({ info: 'Node.js, Express, and Mongo API' ,Author : 'z3phyr'})
-  })
-
 // listen on port 3000
 app.listen(3000, function () {
   console.log('Express app listening on port 3000');
