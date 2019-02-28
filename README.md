@@ -1,16 +1,16 @@
-## Sessions
+# Sessions
    This project is backend for a simple web app with sessions implemented using Nodejs.
    
-# Installing
+## Installing
    Run **`npm install`** in terminal from the project directory.
  
-# Starting the Project
+## Starting the Project
 
  - Run MongoDB server.
  
  - Run **`node server.js`** in terminal to start project.
  
- # User Schema :
+## User Schema :
  
  - email
  
@@ -18,7 +18,7 @@
  
  - password
  
- # APIs
+## APIs
  
  - Web Server running address **http://localhost:3000/**
  
